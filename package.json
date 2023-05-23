@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "@wdio/cli": "^8.8.8",
-    "webdriverio": "^8.8.8"
+    "webdriverio": "^8.9.0"
   }
 }
